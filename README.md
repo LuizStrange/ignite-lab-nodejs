@@ -1,5 +1,5 @@
 <h1 align="center">Aplicação desenvolvido no evento do IgniteLab da rocetseat</h1>
-<p align="center">SOBRE:</br> A Aplicação Consiste, em gerar no banco de dados de uma Notificação, com as seguintes informações: ID, uma mensagem, uma categoria, Data(com horario e dia), e também a verificação de lido ou não lido.<br> A Aplicação se encontra nao dependente de banco de dados, tornado bem mais acessivel em varias ocasiões, caso apresente algum problema no banco de dados. <br> Nesse Projeto do evento da rocketseat aprendi muitas coisas do prisma, nodejs com a flamework do NEST, com diversas dicas boas, e tambem aprendi a impretar testes na aplcação</p>
+<p align="center">SOBRE:</br> A Aplicação Consiste, em gerar no banco de dados de uma Notificação, com as seguintes informações: ID, uma mensagem, uma categoria, Data(com horario e dia), e também a verificação de lido ou não lido.<br> A Aplicação se encontra nao dependente de banco de dados, tornado bem mais acessivel em varias ocasiões, caso apresente algum problema no banco de dados. <br> Nesse Projeto do evento da rocketseat aprendi muitas coisas do prisma, nodejs com a flamework do NEST, com diversas dicas boas, e tambem aprendi a impretar testes na aplicação</p>
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
@@ -8,7 +8,7 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
-  <p align="center">Uma estrutura progressiva em<a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
+  <p align="center">Uma estrutura progressiva em<a href="http://nodejs.org" target="_blank">Node.js</a> estrutura para criar aplicativos do lado do servidor eficientes e escaláveis.</p>
     <p align="center">
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
